@@ -1,0 +1,65 @@
+@media only screen and (max-width:46.188em)
+{
+    *
+    {
+        padding: 0;
+        margin: 0;
+    }
+    .grid__header
+    {
+        display: none;
+    }
+
+    .section_heading
+    {
+        padding: 48px 24px;
+    }
+
+    .section__heading-name
+    {
+        font-size: 40px;
+    }
+
+    .section__images,
+    .section-img
+    {
+        width: 100%;
+    }
+
+    .section__position-name
+    {
+        display: none;
+    }
+
+    .section__position
+    {
+        top: 25%;
+    }
+
+    .section__position-btn
+    {
+        margin-top: 16px;
+    }
+
+    .grid__row
+    {
+        display: block;
+    }
+
+    .grid__column-8
+    {
+        display: block;
+        width: 100%;
+        padding-right: 56px;
+       
+    }
+
+    .grid__column-4
+    {
+        width: 100%;
+        margin: 28px;
+        padding-right: 56px;
+    }
+
+    
+}
